@@ -1,6 +1,6 @@
 # Calculatrice
 
-Application Android (testée sous GrapheneOS), version 2.2.
+Application Android (testée sous GrapheneOS), version 2.3.
 
 ## Télécharger
 
@@ -16,6 +16,6 @@ Application Android (testée sous GrapheneOS), version 2.2.
 
 Empreinte SHA-256 de Calculatrice.apk :
 
-`bf1f083461501a4bb999d511241ccd7ea47874d56a62cb5c1627dfb679125209`
+`aabfb42492acc340e9615fa38cb85bf6e08ac11a5e969f773454a86e1fada2a4`
 
 L'application demande uniquement la permission du microphone (pour des fonctions audio facultatives) ; toujours aucun accès à Internet ni au stockage.
